@@ -1,5 +1,7 @@
 # USB-C Power Delivery PCB
 
+**Note:** This project was developed as part of a university project. Technical references and documentation from the relevant companies/manufacturers, especially Infineon/Cypress documentation for the CYPD3177 USB-PD controller, were used as supporting sources for the design and analysis. The project is for educational and documentation purposes only.
+
 This project focuses on the design and analysis of a USB-C Power Delivery sink system.  
 The goal was to develop a custom PCB capable of requesting defined USB-PD voltage profiles from a USB-C Power Delivery charger.
 
